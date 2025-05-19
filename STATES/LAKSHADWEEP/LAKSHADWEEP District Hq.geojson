@@ -1,1 +1,3 @@
-{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"EPSG:4326"}},"features":[{"type":"Feature","id":478,"geometry":{"type":"Point","coordinates":[72.639844966741492,10.56999334475325]},"properties":{"OBJECTID":478,"STNAME":"LAKSHADWEEP","DTNAME":"Lakshadweep","DIST_HQ":"Kavaratti","STATE_HQ":1,"STCODE11":"31","DTCODE11":"587","YEAR_STAT":"2011_c","DIST_HQNM":"Kavaratti","Dist_LGD":553,"LOC_STAT_1":"District Hq","LOC_NAME":"Lakshadweep"}}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa2252da6a040fd24e4fba1e0eb6d8b401e86431965d87ac386f2fbd4aeb64ce
+size 462
